@@ -37,4 +37,3 @@ if __name__ == "__main__":
             print("[{}]".format(",".join([str(x) for x in row])))
 
     print_triangle(pascal_triangle(7))
-    
